@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Ubuntu 不完全指南
-  text: 新手的第一个 Linux 系统
+  name: Ubuntu不完全指南
+  text: 新手的第一个Linux
   tagline: ❤️️ 面向电脑小白，循序渐进，浅显易懂
   image:
     src: /images/ubuntu.svg
