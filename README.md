@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <a href="https://lightyourjourney.github.io/ubuntu-tutorial/">
+  <a href="https://ubuntu.yanjinli.fun/">
     <img alt="logo" src="./docs/public/images/og.png"/>
   </a>
 </p>
@@ -80,7 +80,7 @@ Welcome to the Peking University PC Squad Help Documentation (hereinafter referr
 
 ## Online Reading
 
-This project is hosted on GitHub Pages and can be read online at [https://lightyourjourney.github.io/ubuntu-tutorial/](https://lightyourjourney.github.io/ubuntu-tutorial/).
+This project is hosted on GitHub Pages and can be read online at [https://ubuntu.yanjinli.fun/](https://ubuntu.yanjinli.fun/).
 
 ## Local Deployment
 

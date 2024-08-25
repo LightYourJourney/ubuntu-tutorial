@@ -9,10 +9,10 @@ import themeConfig from "./theme";
 
 // noinspection JSUnusedGlobalSymbols
 export default defineConfig({
-  base: "/ubuntu-tutorial/", // 设置站点子路径
+  // base: "/ubuntu-tutorial/", // 设置站点子路径
   cleanUrls: true, // 是否去掉 .html 后缀
   sitemap: {
-    hostname: "https://lightyourjourney.github.io/ubuntu-tutorial/",
+    hostname: "https://ubuntu.yanjinli.fun/",
   },
   description,
   head,

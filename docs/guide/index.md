@@ -8,7 +8,7 @@
 
 ## 在线阅读
 
-本项目托管在 GitHub Pages 上，可以通过 [https://lightyourjourney.github.io/ubuntu-tutorial/](https://lightyourjourney.github.io/ubuntu-tutorial/) 在线阅读。
+本项目托管在 GitHub Pages 上，可以通过 [https://ubuntu.yanjinli.fun/](https://ubuntu.yanjinli.fun/) 在线阅读。
 
 ## 本地部署
 
