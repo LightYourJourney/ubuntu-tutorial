@@ -17,12 +17,12 @@ const keywords = [
 export const TITLE = "Ubuntu 不完全指南";
 export const DESCRIPTION = "新手的第一个 Linux 系统";
 export const LANG = "zh-CN";
-export const DOMAIN = "lightyourjourney.github.io/ubuntu-tutorial";
+export const DOMAIN = "ubuntu.yanjinli.fun";
 export const URL = `https://${DOMAIN}`;
 export const REPO = "https://github.com/LightYourJourney/ubuntu-tutorial";
 export const LOGO = "/images/logo.png";
 export const KEYWORDS = keywords.join(",");
-export const META_TITLE = `${TITLE} —— 从入门到入土`;
+export const META_TITLE = `${TITLE} —— Ubuntu It`;
 
 // Algolia Search
 export const API_KEY = "";

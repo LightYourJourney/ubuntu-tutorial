@@ -102,7 +102,7 @@ yarn docs:dev
 
 ## 文档动态
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/d1a7a3d5a463b8f70d0f92c9a3946a95b209932f.svg)
 
 ## 参与贡献
 

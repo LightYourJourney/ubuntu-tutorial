@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Ubuntu不完全指南
-  text: 新手的第一个Linux
-  tagline: ❤️️ 面向电脑小白，循序渐进，浅显易懂
+  text: 新手的第一个 GNU/Linux 操作系统
+  tagline: 🐧 
   image:
     src: /images/ubuntu.svg
     alt: pc-squad

@@ -114,7 +114,7 @@ const twitter: HeadConfig[] = [
   ],
 ];
 const headConfig: HeadConfig[] = [
-  ["link", { rel: "icon", href: "/favicon.ico" }],
+  ["link", { rel: "icon", href: "/favicon.svg" }],
   ...script,
   ...meta,
   ...facebook,

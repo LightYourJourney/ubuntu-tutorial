@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><strong>Help Documentation of PKU PC Squad</strong></h1>
+<h1 align="center"><strong>Ubuntu Tutorial</strong></h1>
 
 <div align="center">
 
@@ -76,8 +76,6 @@ English | [简体中文](./README.zh-CN.md)
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
-Welcome to the Peking University PC Squad Help Documentation (hereinafter referred to as "this book"). This book is collaboratively written by several members of the PC Squad of the Youth Association of the School of EECS at Peking University. It is designed to support and extend the volunteer activities of the Computer Squad within the university. This book is aimed at computer novices, starting from the most basic structure of computers, and gradually leading readers to master the most essential practical computer knowledge in a simple and easy-to-understand manner. This book aims to be a practical computer knowledge manual and repair guide. If you study it diligently, you will surely gain something. Start your journey now!
-
 ## Online Reading
 
 This project is hosted on GitHub Pages and can be read online at [https://ubuntu.yanjinli.fun/](https://ubuntu.yanjinli.fun/).
@@ -104,7 +102,7 @@ yarn docs:dev
 
 ## Repo Status
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/d1a7a3d5a463b8f70d0f92c9a3946a95b209932f.svg)
 
 ## Contributing
 
@@ -120,8 +118,6 @@ The documentation is availably free under the [Creative Commons BY-SA 4.0](https
   <img src="https://contrib.rocks/image?repo=LightYourJourney/ubuntu-tutorial" alt="contributors"/>
 </a>
 
-<!--
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LightYourJourney/ubuntu-tutorial.svg?variant=adaptive)](https://starchart.cc/LightYourJourney/ubuntu-tutorial)
--->
